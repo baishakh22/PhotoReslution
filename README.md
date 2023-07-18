@@ -29,13 +29,13 @@ To run the image resolution enhancement script, you need the following dependenc
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/image-resolution-enhancement.git
+git clone https://github.com/baishakh22/ImageResolution.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd PhotoResolution
+cd ImageResolution
 ```
 
 3. Install the required dependencies:
